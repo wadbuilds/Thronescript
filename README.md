@@ -8,8 +8,8 @@ A Game of Thrones quote generator built with React, Tailwind CSS, and medieval f
 
 ## 🖼️ Preview
 
-![Thronescript Screenshot](public/preview1.jpeg)
-![Thronescript Screenshot](public/preview2.jpeg)
+![Thronescript Screenshot](public/preview1.png)
+![Thronescript Screenshot](public/preview2.png)
 
 ## ⚔️ Features
 
