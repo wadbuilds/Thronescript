@@ -1,12 +1,36 @@
-# React + Vite
+# 🐉 Thronescript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Game of Thrones quote generator built with React, Tailwind CSS, and medieval flair. Relive the adventures of GOT —one quote at a time.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+▶️ [thronescript.vercel.app](https://thronescript.vercel.app)
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Thronescript Screenshot](public/preview1.png)
+![Thronescript Screenshot](public/preview2.png)
+
+## ⚔️ Features
+
+- 🎭 Random quotes from iconic Game of Thrones characters
+- 🧙‍♂️ Atmospheric backgrounds and custom fonts
+- 🛡️ Tailwind v4 styling with immersive theming
+- 📱 Responsive design for mobile and desktop
+
+## 🧩 Tech Stack
+
+| Tool         | Purpose                        |
+|--------------|--------------------------------|
+| React        | UI and component logic         |
+| Tailwind CSS | Styling and layout             |
+| Vite         | Fast dev server and bundling   |
+
+
+## 🛠️ Setup
+
+```bash
+git clone https://github.com/wadbuilds/Thronescript.git
+cd Thronescript
+npm install
+npm run dev
