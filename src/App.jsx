@@ -1,4 +1,5 @@
 import './App.css'
+import { Analytics } from "@vercel/analytics/react"
 import Quote from "./Quote"
 
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <div>
        <Quote></Quote>
+        <Analytics />
       </div>
     </>
   )
